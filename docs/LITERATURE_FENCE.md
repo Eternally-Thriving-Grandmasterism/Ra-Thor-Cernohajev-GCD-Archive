@@ -23,10 +23,13 @@ Forbidden: “they are building the 16.65 T saucer array at MIT.”
 
 ## MHD (C-MHD-01)
 
+See [MHD_COMPARE.md](MHD_COMPARE.md).
+
 Allowed class:
 
-- Peer-reviewed MHD generator / direct energy conversion reviews (open-cycle, closed-cycle, liquid-metal).
-- Published efficiency and electrode / conductivity limits.
+- Faraday / Hall / disc plasma MHD reviews (open- and closed-cycle).
+- Liquid-metal MHD cycle surveys and prototype efficiency reports.
+- Combined-cycle projections treated as *projections*, not fleet facts.
 
 Forbidden: importing Work No. 2.2 MZG geometry as a plant design.
 
