@@ -11,6 +11,7 @@
 - [docs/TESTABLE_CLAIMS.md](docs/TESTABLE_CLAIMS.md)
 - [docs/PLANETARY_B_TABLE_AUDIT.md](docs/PLANETARY_B_TABLE_AUDIT.md)
 - [docs/SI_UNIT_CHECKS.md](docs/SI_UNIT_CHECKS.md)
+- [docs/MHD_COMPARE.md](docs/MHD_COMPARE.md)
 - [docs/LITERATURE_FENCE.md](docs/LITERATURE_FENCE.md)
 - [docs/LATTICE_MAP.md](docs/LATTICE_MAP.md)
 - [docs/REALISM_AND_STATUS.md](docs/REALISM_AND_STATUS.md)
