@@ -1,11 +1,19 @@
 # Next Actions
 
-Priority order after this seed:
+## Closed 2026-08-30
 
-1. **Table audit (C-PLN-01)** — compare Work No. 7 planetary B values to published IGRF / spacecraft magnetometer numbers. Record deltas only.
-2. **Dimensional check (C-MAG-02)** — Ampere-turn estimate vs. stated 16.65 T, 1.65 kA, 8000 turns/m. Output: consistent / inconsistent / missing geometry. No winding design.
-3. **Density / n_e unit check (C-FUS-04, C-FUS-05)** — restated SI vs. solar-model and fusion-plasma ranges.
-4. **Literature fence** — one-page list of mainstream MHD and HTS-magnet papers that are allowed comparison targets (lives better as links from HighTc and Fusion-Abundance).
-5. **Do not** start a simulation that outputs a saucer mass budget or solenoid count for fabrication.
+1. **C-PLN-01 table audit** — done. See `docs/PLANETARY_B_TABLE_AUDIT.md`.
+2. **C-MAG-02 Ampere-turn check** — done. `B_∞ = 16.588 T` vs 16.65 T. See `docs/SI_UNIT_CHECKS.md`.
+3. **C-FUS-04 / C-FUS-05 SI restatement** — done. Density is solar-mean not core; n_e is ionosphere-class.
+4. **Literature fence** — done. See `docs/LITERATURE_FENCE.md`.
+5. **Elon Grok Bot signal** — no new repo. See `docs/ELON_GROK_BOT_SIGNAL_2026-08-28.md`.
 
-Highest-value contribution from outside: a cited, reproducible comparison of one claim row against a primary experimental paper — filed under `data/validated/` only if the *measurement* is independent of GCD.
+## Still open (low priority, no new repos)
+
+- One cited MHD review row for C-MHD-01 (efficiency / working-fluid limits only).
+- Pin C-FUS-03 to a primary-page scan when a critical-edition pagination is handy.
+- Optional one-line cross-link *from* Fusion-Abundance / HighTc READMEs back to this archive.
+
+## Still forbidden
+
+Saucer mass budgets, solenoid fabrication counts, recovered-craft operationalization, Grok-Bot-guide clone repos.
