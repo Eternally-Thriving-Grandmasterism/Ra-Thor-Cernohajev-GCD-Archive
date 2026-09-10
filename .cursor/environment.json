@@ -1,0 +1,4 @@
+{
+  "name": "Ra-Thor GCD Archive",
+  "install": "python3 -m compileall simulations"
+}
